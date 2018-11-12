@@ -18,5 +18,7 @@ public class CoinPairing {
             test.odd();
         }
         test.coinsOutput();
+        
+       
     }
 }
